@@ -13,10 +13,14 @@ After installation you can see xampp folder in C:/ drive
 
 Create all files inside my-website follow this path if javascript code you have than you can create script.js otherwise you can skip
 
-C:\xampp\htdocs\my-website\
+C:\xampp\htdocs\my-website\<br>
+<br>
 ├── index.html
+<br>
 ├── style.css
+<br>
 ├── script.js
+<br>
 └── process.php
 
 3 - if you using chatgpt to create PHP, HTML and CSS, code you need to change path which you set for post action in index.html which is PHP path of localhost
