@@ -13,7 +13,7 @@ After installation you can see xampp folder in C:/ drive
 
 Create all files inside my-website follow this path if javascript code you have than you can create script.js otherwise you can skip
 
-C:\xampp\htdocs\my-website\<br>
+C:\xampp\htdocs\my-website\
 <br>
 ├── index.html
 <br>
