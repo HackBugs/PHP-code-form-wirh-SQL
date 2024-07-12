@@ -24,4 +24,4 @@ C:\xampp\htdocs\my-website\
 └── process.php
 
 3 - if you using chatgpt to create PHP, HTML and CSS, code you need to change path which you set for post action in index.html which is PHP path of localhost
-but in my code no need to change anything
+but in my code no need to change anything 
